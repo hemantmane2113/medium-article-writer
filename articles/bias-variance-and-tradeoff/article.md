@@ -58,7 +58,7 @@ Let:
 - $f(x)$ — the true data-generating function (unknown in practice; known in our simulation)
 - $\mathcal{D}$ — a training dataset of $n$ samples drawn from the same population
 - $\hat{f}_{\mathcal{D}}(x)$ — the prediction of a model trained on $\mathcal{D}$, evaluated at $x$
-- $\mathbb{E}_{\mathcal{D}}[\hat{f}_{\mathcal{D}}(x)]$ — the expected prediction at $x$, averaged over all possible training datasets of size $n$
+- E_D[f̂_D(x)] — the expected prediction at $x$, averaged over all possible training datasets of size $n$
 
 **Bias** at $x$:
 
