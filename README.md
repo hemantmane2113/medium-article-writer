@@ -1,1 +1,1 @@
-This article explains the term bias,variance and the tradeoff between them.
+This article explains the term bias,variance with a theory, mathematical intuition and the tradeoff between them.
